@@ -29,6 +29,7 @@ Your success is our success. Let's make that happen by covering the basics first
 
 ### Analysis Tools And Your Dashboard
 - What is an Analysis Tool
+- Purchase Pre-Built Analysis Tools
 - Create an Analysis Tool
   - Video
 - Update an existing Analysis Tool
@@ -38,6 +39,7 @@ Your success is our success. Let's make that happen by covering the basics first
 
 ### Discovery Plugins
 - What is a Discovery Plugin
+- Purchase Pre-Built Discovery Plugins 
 - Create a Discovery Plugin
   - Video
 - Update an existing Discovery Plugin

@@ -31,3 +31,5 @@ related "collecting content offline" for manually uploading any file type into O
 <a href="https://www.youtube.com/embed/7_DxDTJXtRY" title="OSINT LIAR First Captured Image" target="_blank">
  <img src="https://img.youtube.com/vi/7_DxDTJXtRY/0.jpg" alt="Watch the video" width="480" height="320"/>
 </a>
+
+<a href="/tutorials/">HOME</a>
