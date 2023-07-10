@@ -2,7 +2,7 @@
 
 
 * What is Case Management
-* Creating a new Case
+* [Creating a new Case](https://www.youtube.com/watch?v=7_hQEkjd_AM)
 * Updating a Case
 * Deleting a Case
 * Transfer data between Cases

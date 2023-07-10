@@ -20,13 +20,10 @@ in the why and how this product can help you checkout out the
 
 
 ### Case Management
-- What is case management
-- Create a new case
-  - Video
+- [What is case management](/case-management/index.md)
+- [Creating a new Case](https://www.youtube.com/watch?v=7_hQEkjd_AM)
 - Update an existing case
-  - Video
 - Delete a case and its collection
-  - Video
 
 ### Analysis Tools And Your Dashboard
 - What is an Analysis Tool
