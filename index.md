@@ -1,5 +1,6 @@
 # Welcome to OSINT LIAR
-Your success is our success. Let's make that happen by covering the basics first.
+Your success is our success. Let's make that happen by covering the basics first. If you interested
+in the why and how this product can help you checkout out the 
 
 ### Data Capture & Collections Techniques
 - [Your first capture](/captures/first-capture.md)

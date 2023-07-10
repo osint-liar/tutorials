@@ -1,4 +1,13 @@
 <a href="/tutorials/">HOME</a>
+
+
+* What is Case Management
+* Creating a new Case
+* Updating a Case
+* Deleting a Case
+* Transfer data between Cases
+* Export a Case
+
 # What is Case Management in OSINT LIAR 
 
 Case management plays a crucial role within the context of Open Source Intelligence (OSINT) research. OSINT refers to the collection and analysis of information from publicly available sources, such as social media, news articles, websites, and government records. It is a valuable tool for various domains, including law enforcement, intelligence agencies, corporate security, and private investigations. Effective case management ensures that OSINT research is conducted efficiently, systematically, and ethically.
