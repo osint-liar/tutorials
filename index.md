@@ -21,7 +21,7 @@ in the why and how this product can help you checkout out the
 
 ### Case Management
 - [What is case management](/case-management/index.md)
-- [Creating a new Case](https://www.youtube.com/watch?v=7_hQEkjd_AM)
+- <a href="https://www.youtube.com/watch?v=7_hQEkjd_AM" target="_blank">Create a new Case(youtube)</a>
 - Update an existing case
 - Delete a case and its collection
 
