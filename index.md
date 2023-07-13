@@ -1,6 +1,5 @@
 # Welcome to OSINT LIAR
-Your success is our success. Let's make that happen by covering the basics first. If you interested
-in the why and how this product can help you checkout out the 
+Your success is our success. Let's make that happen by covering the basics first. 
 
 ### Data Capture & Collections Techniques
 - [Your first capture](/captures/first-capture.md)
@@ -21,9 +20,9 @@ in the why and how this product can help you checkout out the
 
 ### Case Management
 - [What is case management](/case-management/index.md)
-- <a href="https://www.youtube.com/watch?v=7_hQEkjd_AM" target="_blank">Create a new Case(youtube)</a>
-- Update an existing case
-- Delete a case and its collection
+- <a href="https://www.youtube.com/watch?v=7_hQEkjd_AM" target="_blank">Create a new Case (youtube)</a>
+- <a href="https://www.youtube.com/watch?v=_vrwLY_4brM" target="_blank">Update an existing case (youtube)</a>
+- <a href="https://www.youtube.com/watch?v=I70mjAWarnw" target="_blank">Delete a case and its collection (youtube)</a>
 
 ### Analysis Tools And Your Dashboard
 - What is an Analysis Tool
